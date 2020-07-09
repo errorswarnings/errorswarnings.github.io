@@ -57,3 +57,5 @@ permalink: pretty
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
+
+theme: jekyll-theme-cayman
